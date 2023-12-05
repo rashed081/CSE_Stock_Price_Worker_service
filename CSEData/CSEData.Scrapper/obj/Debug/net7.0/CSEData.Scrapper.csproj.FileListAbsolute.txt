@@ -1,0 +1,14 @@
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\bin\Debug\net7.0\CSEData.Scrapper.deps.json
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\bin\Debug\net7.0\CSEData.Scrapper.runtimeconfig.json
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\bin\Debug\net7.0\CSEData.Scrapper.dll
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\bin\Debug\net7.0\CSEData.Scrapper.pdb
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.csproj.AssemblyReference.cache
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.AssemblyInfoInputs.cache
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.AssemblyInfo.cs
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.dll
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\refint\CSEData.Scrapper.dll
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.pdb
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\CSEData.Scrapper.genruntimeconfig.cache
+E:\ASP.NET\Repositories\Assignment\rashed_aspnet_b8\Assignment-6\CSEData\CSEData.Scrapper\obj\Debug\net7.0\ref\CSEData.Scrapper.dll
